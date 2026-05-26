@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessionetringify",
+        "uuid": 13687125,
+        "checksum": "gts1a"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
